@@ -4,6 +4,7 @@
 ![config](config.png)
 ### git init
 - to create a new git repository
+
 ![init](Init.png)
 ### git commit
 - captures a snapshot of the project's current deployed changes
