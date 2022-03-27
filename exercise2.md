@@ -20,6 +20,9 @@
 ![add](add.png)
 
 ![add2](add2.png)
+
+#### add pictures
+![add3](add3.png)
 ### git log
 -  shows a list of all the commits made to a repository
 
