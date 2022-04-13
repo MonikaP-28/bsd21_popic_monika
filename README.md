@@ -31,7 +31,8 @@ To use the program you need [IntelliJ](https://www.jetbrains.com/de-de/idea/down
 
 ## Exercises
 - Exercise 1 - [exercise1](exercise1.md)
-- Exercise 2 - [exercise2](exercise2.md) 
+- Exercise 2 - [exercise2](exercise2.md)
+- Exercise 3 - [exercise3](exercise3.md) 
 
 ## Author
 Monika Popic
