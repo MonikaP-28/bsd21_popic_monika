@@ -1,5 +1,5 @@
 # Croatia
-![Croatian Flag](flag.jpg)
+![Croatian Flag](resources/images/flag.jpg)
 *Source: https://pixabay.com/photos/croatia-flag-croatian-flag-103110/*
 
 ## Informations
@@ -17,7 +17,7 @@
 * Pula
 
 ### Picture of Split
-![Split](Split.jpg)
+![Split](resources/images/Split.jpg)
 *Source: https://pixabay.com/photos/croatia-flag-croatian-flag-103110/*
 
 For more informations click on the link --> [Croatia](https://en.wikipedia.org/wiki/Croatia)

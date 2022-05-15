@@ -31,17 +31,17 @@ right mouse-click on the package --> class
 - created an object of the Claculator-Class
 - Methods called with the passed parameters
 
-![Main](Main.png)
+![Main](resources/images/Main.png)
 
 ## Target folder
 After running the program for the first time a new folder was created - *Target*
 
-![Target](targetpic.png)
-![Target2](targetpic2.png)
+![Target](resources/images/targetpic.png)
+![Target2](resources/images/targetpic2.png)
 
 The target directory is used to house all output of the build. 
 
 *Source: https://maven.apache.org/guides/introduction/introduction-to-the-standard-directory-layout.html#:~:text=The%20target%20directory%20is%20used,resources%2C%20site%20and%20so%20on.*
 
 ## Build the example in the console
-![build](buildpic.png)
+![build](resources/images/buildpic.png)
