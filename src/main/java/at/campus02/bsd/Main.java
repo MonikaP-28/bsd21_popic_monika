@@ -9,5 +9,7 @@ public class Main {
         System.out.println(calculator.minus(5,2));
         System.out.println(calculator.divide(5,2));
         System.out.println(calculator.multiply(5,2));
+        System.out.println(calculator.faculty(5));
+
     }
 }

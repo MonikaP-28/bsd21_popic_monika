@@ -22,4 +22,16 @@ public class Calculator {
         return value;
     }
 
+    public int faculty(int num){
+
+        if(num < 1){
+            return 0;
+        }
+
+        int value = 1;
+        for (int i = 2; i <= num; i++){
+            value *= i;
+        }
+        return value;
+    }
 }
