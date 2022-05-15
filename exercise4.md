@@ -27,5 +27,5 @@ right mouse-click on the package --> class
 In the Class CalcTest are testcases to check if the Calculator Class works. The testcases are used for dividing, multiplying, adding and substracting.
 
 ## Screenshots
-![Test](resources/images/CalcTest-SS.png)
-![Error](resources/images/CalcTest-SS2.png)
+![Test](resources/images/ex4_1.png)
+![Error](resources/images/ex4_2.png)
