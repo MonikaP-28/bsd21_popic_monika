@@ -3,5 +3,5 @@
 *.idea
 target
 *.log
-log4js.xml
+*log4js.xml
 
