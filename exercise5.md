@@ -27,3 +27,4 @@ Protokollierung die Daten der Algorithmen effizient weitergeben werden können.
 - Log4j2 folgt einer Suchreihenfolge, um nach den Konfigurationsdateien zu suchen
 
 - Log4j hat die Fähigkeit, sich während der Initialisierung automatisch selbst zu konfigurieren. Wenn Log4j startet, findet es alle ConfigurationFactory-Plugins und ordnet sie in gewichteter Reihenfolge von der höchsten zur niedrigsten. Im Auslieferungszustand enthält Log4j vier ConfigurationFactory-Implementierungen: eine für JSON, eine für YAML, eine für Eigenschaften und eine für XML
+*Quelle: http://makeseleniumeasy.com/2021/03/24/log4j2-tutorial-3-setup-console-appender-using-xml-configuration-file/#Automatic_Configuration*
