@@ -56,6 +56,11 @@ public class CalcTest {
     }
 
     @Test
+    void exceptionTest(){
+        Assertions.assertThrows(ArithmeticException.class,()-> c.divide(5,0));
+    }
+
+    @Test
     public void faculty1(){
         Assertions.assertEquals(120,c.faculty(5));
     }
