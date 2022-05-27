@@ -35,6 +35,7 @@ To use the program you need [IntelliJ](https://www.jetbrains.com/de-de/idea/down
 - Exercise 3 - [exercise3](exercise3.md) 
 - Exercise 4 - [exercise4](exercise4.md)
 - Exercise 5 - [exercise5](exercise5.md)
+- Exercise 6 - [exercise6](exercise6.md)
 
 ## Teplate
 - Template - [template exercise 5](src\main\resources\log4j2.xml.template)
